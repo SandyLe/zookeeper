@@ -1,0 +1,1 @@
+sh zkServer.sh start ../conf/zoo_1.cfg
